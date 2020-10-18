@@ -1,0 +1,2 @@
+# hacktober
+easy coding
